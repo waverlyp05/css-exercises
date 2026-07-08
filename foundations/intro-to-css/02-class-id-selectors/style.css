@@ -1,4 +1,9 @@
 /* Add CSS Styling */
+.odd-number {
+    background-color: #f08080;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
 #num2 {
     color: RGB(0, 0, 255);
     font-size: 36px;
